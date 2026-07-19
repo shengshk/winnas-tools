@@ -1,8 +1,8 @@
 # WinNAS Tools
-Windows是普通人DIY NAS 的最好系统，不服就是你对；
-本工具尝试根据自身使用习惯让WinNAS 更灵活；
-当然日常Windows 也可使用；
-Windows11 简单测试通过，不排除有致命性bug。
+- Windows是普通人DIY NAS 的最好 系统，不服就是你对；
+- 本工具尝试根据自身使用习惯让WinNAS 更灵活；
+- 当然日常Windows 也可使用；
+- Windows11 简单测试通过，不排除有致命性bug。
 
 ## Windows 托盘小工具：
 - 空闲/归来 自动藏/显窗、切电源、停/开音乐、关浏览器、锁屏；
